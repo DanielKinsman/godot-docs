@@ -79,7 +79,7 @@ Distro-specific one-liners
               glu \
               libglvnd \
               alsa-lib \
-              pulseaudio
+              pipewire-pulse
 
     .. tab:: Debian/Ubuntu
 
